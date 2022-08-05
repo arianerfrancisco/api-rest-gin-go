@@ -29,3 +29,5 @@ No job build:
 
 Preparou-se o job e rodou o actions/checkout@v3.
 Executou o build com o comando go build -v main.go. 
+
+Créditos: Curso Alura
