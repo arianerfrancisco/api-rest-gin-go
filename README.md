@@ -1,3 +1,7 @@
+![1 YcFmahlLvOPyjfNtw1GkbQ](https://user-images.githubusercontent.com/72419533/183143696-b7af4347-a970-42f9-bcda-32ba3db58eb9.png)
+
+<h1 align="center"> Integração contínua e entrega contínua (CI/CD) </h1>
+
 ## As rotinas de integração contínua foram divididas em dois jobs: test e build.
 
 No job test, tem-se o seguinte log:
