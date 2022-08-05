@@ -24,4 +24,4 @@ services:
 volumes:
   postgres-data: 
     driver:
-      localff
+      local
